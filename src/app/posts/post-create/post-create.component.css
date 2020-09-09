@@ -1,0 +1,18 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+mat-card {
+  margin-bottom: 1rem;
+  background-color: #333333ff;
+}
+
+button {
+  margin-top: 10px;
+  color: #a44200ff;
+  background-color: #333333ff;
+}

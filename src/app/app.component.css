@@ -1,0 +1,16 @@
+body {
+  background-color: #82968cff;
+  overflow-x: hidden;
+  overflow-y: hidden !important;
+}
+
+app-header {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 80%;
+  margin: 50px auto;
+}

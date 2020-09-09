@@ -1,0 +1,36 @@
+.mat-expansion-panel{
+  margin-top: 1%;
+  display: block;
+  box-shadow: 10px 10px 20px -10px rgba(0,0,0,0.6);
+  background-color: #FCDEBE;
+}
+
+.mat-expansion-panel-header {
+  background-color: #333333ff;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.mat-expansion-panel-header:hover{
+  background: #333333ff !important;
+}
+
+.mat-expansion-panel-header.mat-expanded {
+  background: #333333ff !important;
+}
+
+mat-action-row {
+  background-color: #a44200ff;
+}
+
+.buttonEditar {
+  color: #333333ff;
+  background-color: #a44200ff;
+}
+
+.buttonDelete {
+  color: #333333ff;
+  background-color: #a44200ff;
+}
