@@ -31,7 +31,7 @@ export class PostCreateComponent implements OnInit {
           this.post = { id: postData._id, title: postData.title, content: postData.content };
         });
       } else {
-        this.mode = 'crete'
+        this.mode = 'create'
         this.postId = null;
       }
     });
