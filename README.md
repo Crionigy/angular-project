@@ -5,4 +5,4 @@ Projeto feito atraves do curso - Angular & NodeJS - The MEAN Stack Guide [2021 E
 
 ## Development server
 
-Use o comando `ng serve` para iniciar um servidor de desenvolvimento. Navega para acessar a aplicação basta acessar `http://localhost:4200/`.
+Use o comando `ng serve` para iniciar um servidor de desenvolvimento. Para acessar a aplicação basta acessar `http://localhost:4200/`.
